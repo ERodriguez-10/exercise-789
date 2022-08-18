@@ -1,0 +1,12 @@
+.online {
+  color: green;
+}
+
+.offline {
+  color: red;
+}
+
+.online:hover,
+.offline:hover {
+  cursor: pointer;
+}
